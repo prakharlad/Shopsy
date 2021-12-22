@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\Libraries\\Downloads\\Shopsy-master\\Shopsy-master\\build\\path_provider\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "C:\\Users\\Prakhar\\.gradle\\caches\\transforms-2\\files-2.1\\1ab68bcc602a99289c895d4132a95abd\\core-1.1.0\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "D:\\Libraries\\Downloads\\Shopsy-master\\Shopsy-master\\build\\path_provider\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "C:\\Users\\Prakhar\\.gradle\\caches\\transforms-2\\files-2.1\\1ab68bcc602a99289c895d4132a95abd\\core-1.1.0\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Libraries\\Downloads\\Shopsy-master\\Shopsy-master\\build\\path_provider\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\notification_bg_normal.9.png",
+        "source": "C:\\Users\\Prakhar\\.gradle\\caches\\transforms-2\\files-2.1\\1ab68bcc602a99289c895d4132a95abd\\core-1.1.0\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\Libraries\\Downloads\\Shopsy-master\\Shopsy-master\\build\\path_provider\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "C:\\Users\\Prakhar\\.gradle\\caches\\transforms-2\\files-2.1\\1ab68bcc602a99289c895d4132a95abd\\core-1.1.0\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Libraries\\Downloads\\Shopsy-master\\Shopsy-master\\build\\path_provider\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "C:\\Users\\Prakhar\\.gradle\\caches\\transforms-2\\files-2.1\\1ab68bcc602a99289c895d4132a95abd\\core-1.1.0\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    }
+]
